@@ -1,0 +1,11 @@
+Hello world
+This is test file
+blablabla testing s21_cat and s21_grep
+blablabla line word grep
+next line
+another line
+
+There was text
+	here was tab
+Line with    spaces
+hello bye pupupu
